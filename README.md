@@ -15,7 +15,7 @@ The purpose of this project is to demonstrate the use of *Java Swing components*
 
 - *Programming Language*: Java  
 - *GUI Toolkit*: Java Swing (built-in)  
-- *IDE*: IntelliJ IDEA Community / Eclipse / VS Code  
+- *IDE*: VS Code  
 
 ---
 
